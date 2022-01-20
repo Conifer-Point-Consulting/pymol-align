@@ -32,3 +32,9 @@
 *.app
 
 settings.json
+build
+.DS_Store
+
+# output files
+main
+proto/main
